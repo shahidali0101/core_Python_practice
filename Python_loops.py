@@ -89,3 +89,22 @@ for i in range(3):
     print(i)
 else:
     print("Loop finished successfully")
+
+#-------------------------------------------Loops_Question-------------------------------------------
+
+'''print sequence counting 1 to 15 by for and while loop'''
+
+for i in range(1,16):
+    print(i)
+#-------------------------------------
+x=1
+while x<=15:
+    print(x)
+    x+=1
+#---------------------------------
+
+
+    
+
+
+
