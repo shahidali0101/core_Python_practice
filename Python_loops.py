@@ -102,9 +102,18 @@ while x<=15:
     print(x)
     x+=1
 #---------------------------------
+'''print counting from 10 to 20'''
+x=10
+while x<=20:      
+    print(x)
+    x+=1
 
+#--------------
+for i in range(10,21):
+    print(i)
 
     
+
 
 
 
