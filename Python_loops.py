@@ -133,7 +133,14 @@ for i in range(1,31):
     if i%2==0:
         print(i)
 
+''' 10 to 40  print all number which is divisible by 3 and 2'''
+
+for i in range (10,41):
+    if i%3==0 and i%2==0:
+        print(i)
+
     
+
 
 
 
