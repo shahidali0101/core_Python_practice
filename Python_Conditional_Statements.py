@@ -5,7 +5,7 @@ Author: Shahid Ali
 
 """
 
-# ---------------------------
+# --------------------------------
 # What are Conditional Statements?
 # ---------------------------
 # Conditional statements are used to perform different actions based on different conditions.
@@ -61,3 +61,4 @@ else:
 
 
 #---------------------------------------------------------------
+
