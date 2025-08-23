@@ -146,7 +146,17 @@ for i in range (10,26):
     if i%2==0:
         c+=1
 print(c)
+
+fact=1
+num=int(input("enter no  :"))
+a=1
+while a<= num:
     
+    fact=fact*a
+    a=a+1
+print("factorial is : ",fact)
+    
+
 
 
 
