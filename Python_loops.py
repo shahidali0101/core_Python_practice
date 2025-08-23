@@ -147,6 +147,9 @@ for i in range (10,26):
         c+=1
 print(c)
 
+
+#Write a program to find the factorial of a number using a while loop and for loop.
+
 fact=1
 num=int(input("enter no  :"))
 a=1
@@ -156,6 +159,7 @@ while a<= num:
     a=a+1
 print("factorial is : ",fact)
     
+
 
 
 
