@@ -8,7 +8,7 @@
 # Each block of code (like loops, functions, conditionals)
 #  must be consistently indented.
 
-#-----------------------------------------------------------------------
+#-------------------------------------------------------------------
 
 # Valid indentation example: #✅
 if True:
@@ -56,3 +56,4 @@ multi-line comment  .
 multi-line comment,
 
  this is another line here '''
+
