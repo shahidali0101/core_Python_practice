@@ -61,3 +61,8 @@ s_num = "10"
 i_num = int(s_num)  # convert string to integer
 
 print(i_num + 5)    # Output: 15
+
+
+
+
+
