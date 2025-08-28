@@ -61,6 +61,24 @@ else:
 
 
 #--------------------------------------------------------------
+''' Write a Python program to calculate tax based on income:
+            take input by user
+              Income > 15,00,000 → 30% tax
+              Income > 12,00,000 → 20% tax
+              Income > 10,00,000 → 10% tax
+              Income > 7,00,000 → 5% tax
+              Otherwise → No tax'''
+income=float(input("enter income: "))
+if income>1500000:
+        print(income*0.30) 
+elif income>1200000:
+        print(income*0.20)
+elif income>1000000:
+          print(income*0.10)
+elif income>700000:
+          print(income*0.05)          
+else:
+     print("no tax")   
 
 
 
