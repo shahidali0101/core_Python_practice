@@ -60,6 +60,7 @@ else:
     print("Login failed")
 
 
+
 #--------------------------------------------------------------
 ''' Write a Python program to calculate tax based on income:
             take input by user
@@ -79,6 +80,15 @@ elif income>700000:
           print(income*0.05)          
 else:
      print("no tax")   
+
+#--------------------------------------
+'''Write a program to categorize temperature: 
+                                          <0 = Freezing 
+                                          0-10 = Cold 
+                                         11-25 = Moderate 
+                                           25 = Hot '''
+
+
 
 
 
