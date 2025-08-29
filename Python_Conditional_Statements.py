@@ -87,6 +87,15 @@ else:
                                           0-10 = Cold 
                                          11-25 = Moderate 
                                            25 = Hot '''
+x=float(input("enter temp: "))
+if x<0:
+    print("freezing")
+elif x<10:
+    print("cold")
+elif x<25 :
+    print("moderate")   
+else:
+    print("hot")
 
 
 
