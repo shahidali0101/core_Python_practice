@@ -97,6 +97,14 @@ elif x<25 :
 else:
     print("hot")
 
+#------------------------------------------
+""" Write a program to assign grades based on marks: 
+                                        o 90+ = A 
+                                        o 80-89 = B 
+                                        o 70-79 = C 
+                                        o Below 70 = F """
+
+
 
 
 
