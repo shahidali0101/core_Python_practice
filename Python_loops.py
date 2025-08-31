@@ -139,7 +139,7 @@ for i in range (10,41):
     if i%3==0 and i%2==0:
         print(i)
 
-#count all even number from 10 to 25
+# count all even number from 10 to 25
 
 c=0
 for i in range (10,26):
@@ -148,7 +148,7 @@ for i in range (10,26):
 print(c)
 
 
-#Write a program to find the factorial of a number using a while loop and for loop.
+# Write a program to find the factorial of a number using a while loop and for loop.
 
 fact=1
 num=int(input("enter no  :"))
@@ -159,9 +159,15 @@ while a<= num:
     a=a+1
 print("factorial is : ",fact)
     
+#-----------------------------
+''' Write a Python program using a for loop to print all odd numbers 
+   from 40 to 21 in descending order.'''
 
+for i in range(40,20,-1):
+   if i%2!=0:
+      print(i)
 
-
+#--------------------
 
 
 
