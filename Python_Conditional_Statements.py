@@ -5,7 +5,7 @@ Author: Shahid Ali
 
 """
 
-# --------------------------------
+# ---------------------------------
 # What are Conditional Statements?
 # --------------------------------
 # Conditional statements are used to perform different actions based on different conditions.
@@ -113,7 +113,10 @@ elif x>70:
 else:
     print("F",x )
 
-#------------------------------------------------
+#--------------------------------------------------
+
+
+
 
 
 
