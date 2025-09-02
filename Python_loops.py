@@ -168,6 +168,9 @@ for i in range(40,20,-1):
       print(i)
 
 #--------------------
+''' Write a Python program using a for loop to print all even numbers 
+   from 40 to 21 in descending order.'''
+
 
 
 
