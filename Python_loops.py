@@ -179,6 +179,10 @@ for i in range(40,20,-1):
 """Print numbers from 5 to 25 using a for loop. 
  If the number is divisible by 7, stop the loop."""
 
+for i in range(5,25):
+    if i%7==0:
+        break
+    print(i)
 
 
 
