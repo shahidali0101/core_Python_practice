@@ -120,6 +120,13 @@ else:
        Print "mid" if it's between 21 and 30
        Else, print "high"'''
 
+x=int(input("enter no: "))
+if x>=1 and x<=20:
+    print("low")
+elif x>=21 and x<=30:
+    print("mid")
+else:
+    print("high")    
 
 
 
