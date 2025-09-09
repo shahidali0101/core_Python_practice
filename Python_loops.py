@@ -184,6 +184,8 @@ for i in range(5,25):
         break
     print(i)
 
+#----------------------------------------------------------------------------
+# Write a program to calculate the sum of first n natural numbers using while.
 
 
 
