@@ -196,7 +196,13 @@ while a<=n:
 print("sum of your natural numbers  : ", sum)
 
 #---------------------------------------------------------------------
-Write a python program with the help of user input to print any table.
+# Write a python program with the help of user input to print any table.
+
+x=int(input("enter no:"))
+for i in range(1,11):
+
+     print(x,"X",i,"=",x*i)  
+
 
 
 
