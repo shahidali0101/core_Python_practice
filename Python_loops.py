@@ -195,6 +195,8 @@ while a<=n:
     a=a+1
 print("sum of your natural numbers  : ", sum)
 
+#---------------------------------------------------------------------
+Write a python program with the help of user input to print any table.
 
 
 
