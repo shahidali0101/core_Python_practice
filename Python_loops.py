@@ -203,8 +203,12 @@ for i in range(1,11):
 
      print(x,"X",i,"=",x*i)  
 
+#
 
-
+for i in range(0,21):
+    if i==5 or i==10 or i==15: 
+      continue
+    print(i)
 
 
 
