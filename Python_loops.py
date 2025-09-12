@@ -212,6 +212,11 @@ for i in range(0,21):
       continue
     print(i)
 
+#------------------------------------------------------------------
+''' Write a program using a for loop to print numbers from 1 to 15 
+     but skip numbers divisible by 3 '''
+
+
 
 
 
