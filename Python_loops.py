@@ -4,7 +4,7 @@ Topic: Loops in Python
 Author: Shahid Ali
 """
 
-# ---------------------------
+# --------------------------
 # What are Loops?
 # ---------------------------
 # Loops are used to execute a block of code repeatedly.
@@ -220,6 +220,7 @@ for i in range(1,15):
     if i%3==0:
         continue
     print(i)
+
 
 
 
