@@ -4,9 +4,9 @@ Topic: Loops in Python
 Author: Shahid Ali
 """
 
-# --------------------------
+# -------------------------
 # What are Loops?
-# ---------------------------
+# -------------------------
 # Loops are used to execute a block of code repeatedly.
 # Python supports two main types of loops:
 # 1. for loop
@@ -220,6 +220,7 @@ for i in range(1,15):
     if i%3==0:
         continue
     print(i)
+
 
 
 
