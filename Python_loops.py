@@ -12,9 +12,9 @@ Author: Shahid Ali
 # 1. for loop
 # 2. while loop
 
-# ---------------------------
+# -------------------
 # for Loop
-# ---------------------------
+# -------------------
 # Used to iterate over a sequence (like list, string, range, etc.)
 
 print("Using for loop with range:")
@@ -231,6 +231,7 @@ for i in range(30,10,-1):
     if i%2==0:
         continue
     print(i)
+
 
 
 
