@@ -235,6 +235,10 @@ for i in range(30,10,-1):
 #----------------------------------------------------------------
 '''Write a Python program to print the squares of numbers from 1 to 20'''
 
+for i in range(1,21):
+     x=i**2
+     print(x)
+
 
 
 
