@@ -254,6 +254,11 @@ for i in range(1,21):
      print(x)
 
 
+#-------------------------------------------------------------------------
+'''Write a Python program that takes an integer input from the user and 
+       prints the cube of all numbers from 1 to that number'''
+
+
 
 
 
