@@ -258,6 +258,10 @@ for i in range(1,21):
 '''Write a Python program that takes an integer input from the user and 
        prints the cube of all numbers from 1 to that number'''
 
+y=int(input(" Enter no :- "))
+for i in range(1,y+1):
+     x=i**3
+     print(x)
 
 
 
