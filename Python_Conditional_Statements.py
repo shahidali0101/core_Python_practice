@@ -129,6 +129,7 @@ else:
     print("high")    
 
 
+''' Write a program to find the greatest among three numbers.'''
 
 x=float(input("enter no: "))
 y=float(input("enter no: "))
@@ -139,6 +140,7 @@ elif y>x and y>z:
     print(y)
 else:
     print(z)  
+
 
 
 
