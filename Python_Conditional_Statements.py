@@ -5,7 +5,7 @@ Author: Shahid Ali
 
 """
 
-# --------------------------------
+# -------------------------------- 
 # What are Conditional Statements?
 # --------------------------------
 # Conditional statements are used to perform different actions based on different conditions.
@@ -161,6 +161,7 @@ for i in range(1, 21):
     if 8 <= i <= 12:
         continue
     print(i)
+
 
 
 
