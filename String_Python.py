@@ -1,7 +1,7 @@
 # Python_Strings_Manipulation.py
 """
 Topic: Strings in Python & String Manipulation
-Author: Amisha Nakoti
+Author: Shahid Ali
 """
 
 # ---------------------------
@@ -33,5 +33,6 @@ print("Last character:", word[-1])  # Negative indexing
 print("Substring [0:4]:", word[0:4])   # Pyth
 print("Substring [:3]:", word[:3])     # Pyt
 print("Substring [2:]:", word[2:])     # thon
+
 
 
