@@ -34,5 +34,13 @@ print("Substring [0:4]:", word[0:4])   # Pyth
 print("Substring [:3]:", word[:3])     # Pyt
 print("Substring [2:]:", word[2:])     # thon
 
+# ---------------------------
+# 4. String Concatenation and Repetition
+# ---------------------------
+a = "Hello"
+b = "World"
+print(a + " " + b)   # Concatenation
+print(a * 3)         # Repetition
+
 
 
