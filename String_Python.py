@@ -42,5 +42,20 @@ b = "World"
 print(a + " " + b)   # Concatenation
 print(a * 3)         # Repetition
 
+# ---------------------------
+# 5. String Functions / Methods
+# ---------------------------
+text = "   Python Programming   "
+
+print("Uppercase:", text.upper())
+print("Lowercase:", text.lower())
+print("Title Case:", text.title())
+print("Stripped:", text.strip())
+print("Length:", len(text))
+print("Replace:", text.replace("Python", "Java"))
+print("Find 'Pro':", text.find("Pro"))
+print("Count 'm':", text.count("m"))
+
+
 
 
