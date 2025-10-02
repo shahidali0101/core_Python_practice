@@ -80,6 +80,17 @@ print(f"My name is {name} and I am {age} years old.")
 # Using format()
 print("My name is {} and I am {} years old.".format(name, age))
 
+# ---------------------------
+# 8. Splitting and Joining Strings
+# ---------------------------
+sentence = "Python is fun to learn"
+words = sentence.split()  # Converts string to list
+print("Split:", words)
+
+joined = "-".join(words)  # Joins list back into string
+print("Joined:", joined)
+
+
 
 
 
