@@ -6,7 +6,7 @@ Author: Shahid Ali
 
 # -------------------------
 # 1. What is a String?
-# ---------------------------
+# -------------------------
 # A string is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or triple quotes (''' ''' / """ """).
 
 string1 = 'Hello'
@@ -89,6 +89,7 @@ print("Split:", words)
 
 joined = "-".join(words)  # Joins list back into string
 print("Joined:", joined)
+
 
 
 
