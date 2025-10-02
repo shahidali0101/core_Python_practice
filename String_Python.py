@@ -57,6 +57,18 @@ print("Find 'Pro':", text.find("Pro"))
 print("Count 'm':", text.count("m"))
 
 
+# ---------------------------
+# 6. Checking String Types
+# ---------------------------
+num = "12345"
+alpha = "Hello"
+alnum = "Hello123"
+
+print("Is digit?", num.isdigit())
+print("Is alpha?", alpha.isalpha())
+print("Is alphanumeric?", alnum.isalnum())
+
+
 
 
 
