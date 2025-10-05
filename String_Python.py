@@ -4,7 +4,7 @@ Topic: Strings in Python & String Manipulation
 Author: Shahid Ali
 """
 
-# -------------------------
+# ------------------------
 # 1. What is a String?
 # ------------------------
 # A string is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or triple quotes (''' ''' / """ """).
@@ -95,6 +95,7 @@ print("Joined:", joined)
 # ---------------------------
 for char in "Hello":
     print(char)
+
 
 
 
