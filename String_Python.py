@@ -102,6 +102,9 @@ for char in "Hello":
 s = "Python"
 print("Reversed:", s[::-1])
 
+# ---------------------------
+# 11. Palindrome Check (Practice)
+# ---------------------------
 
 
 
