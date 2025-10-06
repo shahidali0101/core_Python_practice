@@ -99,6 +99,8 @@ for char in "Hello":
 # ---------------------------
 # 10. String Reversal
 # ---------------------------
+s = "Python"
+print("Reversed:", s[::-1])
 
 
 
