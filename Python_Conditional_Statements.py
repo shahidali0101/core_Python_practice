@@ -164,6 +164,10 @@ for i in range(1, 21):
 
 ''' WAP take input from user and print last digit of that number.'''
 
+x=int(input(" enter any number-:  "))
+y=x%10
+print("this is the last digit:-",y)
+
 
 
 
