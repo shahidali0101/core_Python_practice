@@ -162,6 +162,7 @@ for i in range(1, 21):
         continue
     print(i)
 
+''' WAP take input from user and print last digit of that number.'''
 
 
 
