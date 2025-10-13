@@ -116,6 +116,11 @@ print("Is 'python' a palindrome?", is_palindrome("python"))
 #                          Questions
 #------------------------------------------------------------------------------------------
 
+'''  show the lenth of the text without space '''
+
+x="python is a programming language"
+
+
 
 
 
