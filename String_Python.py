@@ -134,6 +134,13 @@ if len(x)>=5:
 else:
     print(x.lower())
 
+''' WAP by user input ,if name startwith "p","r","a" or "m" 
+     then show "yes" else show "No"   '''
+x=input("enter word:")
+if x[0] in ("pram"):
+    print("yes")
+else:
+    print("no")
 
 
 
