@@ -156,16 +156,18 @@ if x.startswith("a") and x.endswith("a"):
 else:
     print("no") 
 
+#-----------------------------------------
 '''   replece i with this "*" '''
 x="India is a Incredible country".lower()
 y=x.replace("i","*")
 print(y)
-
+#----------------------------------------------------
 ''' replece i with this "*" and rest of it print in capital'''
 
 x=input("enter word:").lower()
 y=x.replace("i","*")
 print(y.upper())
+
 
 
 
