@@ -168,6 +168,9 @@ x=input("enter word:").lower()
 y=x.replace("i","*")
 print(y.upper())
 
+#--------------------------------------------
+
+
 
 
 
