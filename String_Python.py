@@ -171,6 +171,14 @@ print(y.upper())
 #--------------------------------------------
 
 
+''' WAP by take user input , convert first and Last alphabet in capital letter
+       and rest in small letter'''
+x=input("enter name:")
+y=x[0].upper()
+z=x[-1].upper()
+a=x[1:-2].lower()
+print(y+a+z)
+
 
 
 
