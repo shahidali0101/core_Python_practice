@@ -192,7 +192,12 @@ print(y)
 x="Data ScIeNce"
 y=x.swapcase()
 print(y)
-
+#--------------------------------------
+'''Print all numbers from x'''
+x="raj135kum3444ar"
+for i in x:
+    if i.isdigit():
+        print(i,end="")
 
 
 
