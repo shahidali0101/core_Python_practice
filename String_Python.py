@@ -199,6 +199,28 @@ for i in x:
     if i.isdigit():
         print(i,end="")
 
+'' 'Write a python program to print all alphabet excluding "a" '''
+
+x="Ramayana"
+for i in x:
+    if i!="a":
+        print(i)
+
+#              ---------------OR
+x="Ramayana"
+for i in x:
+    if i[0]!="a":
+        print(i)
+#            -----------------OR
+
+x="Ramayana"
+for i in x:
+    if i=="a":
+        continue
+    else:
+      print(i)
+
+
 
 
 
