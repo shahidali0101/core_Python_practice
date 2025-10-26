@@ -219,6 +219,10 @@ for i in x:
         continue
     else:
       print(i)
+x="pr1i3n5c34e44"
+for i in x:
+    if i.isalpha():
+        print(i,end="")
 
 
 
