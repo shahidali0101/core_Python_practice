@@ -226,6 +226,30 @@ for i in x:
     if i.isalpha():
         print(i,end="")
 
+#---------------------------------
+x="pr1i3n5@*%$c34e44"
+
+for i in x:
+    if i.isalpha() or i.isnumeric():
+        print(i,end="")
+#--------                                 OR
+y=""
+z=""
+x="pr1i3n5@*%$c34e44"
+for i in x:
+    if i.isalpha():
+        y+=i
+    elif i.isdigit():
+        z+=i
+print(y)
+print(z)
+#---                     OR
+x="pr1i3n5@*%$c34e44"
+for i in x:
+    if i.isalnum():
+        print(i,end="")
+
+
 
 
 
