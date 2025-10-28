@@ -249,6 +249,7 @@ for i in x:
     if i.isalnum():
         print(i,end="")
 
+#----------------------------------------------------------
 '''Print all elements which is written in capital letter'''
 
 x="asDFgH5jdhWEEREK345REiS"
@@ -256,6 +257,13 @@ for i in x:
     if i.isupper():
         print(i)
 
+#-----------------------------------------
+'''extratct all special charactor'''
+x="Agfp445##le#@e  2$@34"
+for i in x:
+    if i.isalnum():
+        continue
+    print(i.replace(" ",""),end="")
 
 
 
