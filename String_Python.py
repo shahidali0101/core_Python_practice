@@ -1,4 +1,5 @@
 # Python_Strings_Manipulation.py
+
 """
 Topic: Strings in Python & String Manipulation
 Author: Shahid Ali
@@ -264,6 +265,14 @@ for i in x:
     if i.isalnum():
         continue
     print(i.replace(" ",""),end="")
+
+
+#-----------------------------------------------------
+'''Print all elements which is written in small letter'''
+x="ghgd%^^&57GGJJKS"
+for i in x:
+    if i.islower():
+        print(i)
 
 
 
