@@ -5,7 +5,7 @@ Topic: Strings in Python & String Manipulation
 Author: Shahid Ali
 """
 
-# -----------------------
+# ------------------------
 # 1. What is a String?
 # ------------------------
 # A string is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or triple quotes (''' ''' / """ """).
@@ -273,6 +273,7 @@ x="ghgd%^^&57GGJJKS"
 for i in x:
     if i.islower():
         print(i)
+
 
 
 
