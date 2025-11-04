@@ -285,6 +285,7 @@ for i in x:
 
 print("\nTotal mo of charactor",c)
 
+#---------------------------------------
 
 
 
