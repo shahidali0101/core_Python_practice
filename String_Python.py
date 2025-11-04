@@ -287,6 +287,18 @@ print("\nTotal mo of charactor",c)
 
 #---------------------------------------
 
+'''count and extract text and num both from the string'''
+
+txt=0
+num=0
+x="App 234 le#@e 67234"
+for i in x:
+    if i.isalpha():       
+        txt+=1
+    elif i.isnumeric():
+        num+=1
+print("\nTotal charactor",txt)
+print("\nTotal numbrers",num)
 
 
 
