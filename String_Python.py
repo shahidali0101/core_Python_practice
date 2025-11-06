@@ -311,6 +311,18 @@ for i in x:
         # s=s+int(i)
 print(s)
 
+#--------------------------------------------------------
+
+#Write a program to count the number of vowels in a string using a for loop. 
+
+str=input("Enter strings :")
+count=0
+vowels="aeiouAEIOU"
+for i in str:
+    if i in vowels:
+        count=count+1
+print(" num of vowels :",count)
+
 
 
 
