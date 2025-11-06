@@ -300,6 +300,8 @@ for i in x:
 print("\nTotal charactor",txt)
 print("\nTotal numbrers",num)
 
+
+#--------------------------------------------------------
 '''WAP a program to sum all numerical data'''
 x="python12345"
 s=0
@@ -308,6 +310,7 @@ for i in x:
         s+=int(i)
         # s=s+int(i)
 print(s)
+
 
 
 
