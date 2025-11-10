@@ -311,7 +311,7 @@ for i in x:
         # s=s+int(i)
 print(s)
 
-#--------------------------------------------------------
+#------------------------------------------------------------------------
 
 #Write a program to count the number of vowels in a string using a for loop. 
 
@@ -372,6 +372,7 @@ y=x[0].upper()
 z=x[-1].upper()
 a=x[1:-2].lower()
 print(y+a+z)
+
 
 
 
