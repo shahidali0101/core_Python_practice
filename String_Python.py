@@ -7,7 +7,7 @@ Author: Shahid Ali
 
 # -------------------------
 # 1. What is a String?
-# ------------------------
+# ------------------------ 
 # A string is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or triple quotes (''' ''' / """ """).
 
 string1 = 'Hello'
@@ -372,6 +372,7 @@ y=x[0].upper()
 z=x[-1].upper()
 a=x[1:-2].lower()
 print(y+a+z)
+
 
 
 
