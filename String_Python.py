@@ -1,7 +1,7 @@
 # Python_Strings_Manipulation.py
 
 """
-Topic: Strings in Python & String Manipulation
+Topic: Strings in Python & String Manipulation 
 Author: Shahid Ali
 """
 
@@ -388,6 +388,7 @@ for i in x:
 for i in x:
     a=x.index(i)-len(x)
     print(i," : Index No",a)
+
 
 
 
