@@ -390,6 +390,31 @@ for i in x:
     print(i," : Index No",a)
 
 
+#-------------------------------------------------------------------------------
+'''Write a pythone Program to print the index number 
+   of each elements without using find and index   '''
+
+x="DELHI"
+y=range(len(x))
+for i in y:
+    print(x[i]," : ",i)
+# --------------------------------
+x="Prince Sharma"
+for i in range(len(x)):
+    print(x[i],"  :  ",i)  
+
+#                          ----REVERSE-----
+x="Prince Sharma"
+Y=len(x)
+for i in range(len(x)):
+    print(x[i],"  :  ",i-Y)
+    
+#              this is not dynamic bcoz here "a" index no will be same 
+x="Ramayana"
+for i in x:
+    a=x.index(i)
+    print(i," :",a)
+
 
 
 
