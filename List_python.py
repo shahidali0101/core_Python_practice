@@ -26,4 +26,67 @@ ________________________________________________________________________________
 INDEXING - Iindexing are used to Extract the single elements from list.
 SLICING  - Slicing are used to extract the range of elements from list.
 ---------------------------------------------------------------------------------------------------
+
 ______________________________________________________________________________________________________'''
+
+
+
+# ---------------------------
+# 1. What is a List?
+# ---------------------------
+# A list is a mutable (changeable), ordered collection of items.
+# Lists can store different data types.
+
+
+fruits = ["apple", "banana", "cherry"]
+numbers = [10, 20, 30, 40]
+mixed = ["hello", 10, 5.5, True]
+
+
+print(fruits)
+print(numbers)
+print(mixed)
+
+
+# ---------------------------
+# 2. Accessing List Elements
+# ---------------------------
+print("First fruit:", fruits[0])
+print("Last fruit:", fruits[-1])
+
+
+# ---------------------------
+# 3. Modifying a List (Mutable)
+# ---------------------------
+fruits[1] = "mango"
+print("Updated fruits:", fruits)
+
+
+# Add items
+fruits.append("orange")
+fruits.insert(1, "kiwi")
+print("After adding items:", fruits)
+
+
+# Remove items
+fruits.remove("apple")
+popped_item = fruits.pop() # removes last item
+print("After removing items:", fruits)
+print("Popped item:", popped_item)
+
+
+# ---------------------------
+# 4. List Slicing
+# ---------------------------
+print("Sliced list:", numbers[1:3])
+print("First three:", numbers[:3])
+print("From index 2:", numbers[2:])
+
+
+# ---------------------------
+# 5. List Functions / Methods
+# ---------------------------
+print("Length:", len(numbers))
+print("Max:", max(numbers))
+print("Min:", min(numbers))
+print("Squares:", squares)
