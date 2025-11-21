@@ -193,7 +193,7 @@ sum=0
 a=1
 while a<=n:
     sum=sum+a
-    a=a+1
+    a=a+1 
 print("sum of your natural numbers  : ", sum)
 
 #---------------------------------------------------------------------
@@ -263,6 +263,7 @@ y=int(input(" Enter no :- "))
 for i in range(1,y+1):
      x=i**3
      print(x)
+
 
 
 
