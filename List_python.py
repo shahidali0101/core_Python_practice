@@ -170,6 +170,95 @@ x.extend(y)
 print(x)                #['a', 'b', 'c', 'd', 1, 2, 3, 4, 5]
 #_______________________________________________________________________________  
 
+'''WAP to store all even number in list from 1 to 20'''
+x=[]
+for i in range(1,21):
+    if i%2==0:
+       x.append(i) 
+print(x)
+
+
+'''~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1.POP   :-it delete elements from list by index number and 
+          by default delete the last elements from list.
+
+2.REMOVE:-its delete elements from list by value " " .
+
+3.CLEAR :-its delete entire elements from list   .
+
+4.DEL   :-Its a keyword in python which is used to delete the value and variable also.
+_______________________________________________________________________________________________ '''
+x=["one","two","three","four","five"]
+x.pop() #delete last element
+x.pop(1) #delete element by index
+#----------------------------------------------------------------------------------------------
+x=["one","two","three","four","five"]
+x.remove("two") #only single value in one tym
+#-------------------------------------------------------------------------------------------------------------
+x=["one","two","three","four","five"]
+x.clear()
+#---------------------------------------------------------------------------------------
+
+x=["one","two","three","four","five"]
+del x       #delete completely even variable.
+del x[0:2]  #deleting elements by indexing  .
+_____________________________________________________________________________________________________
+
+x=["one","two","three","four","five"]
+y=["six","seven","eight"]
+print(x+y)
+
+#_________________________________________________________________________________________________
+'''delete all 23 from list '''
+x=[34,23,23,12,34,23,15]
+while 23 in x:
+        x.remove(23)
+print(x) 
+#-----------------------------------------------
+'''WAP to store all name in new list which name start with "a" '''
+x=["Aman","Ravi","Alok","Jimmy","Roy","Aryan"]
+y=[]
+for i in x:
+    if i[0].lower()=="a":
+        y.append(i)
+print(y)
+#-----------------------------------------------------------------------------
+
+
+'''print all common elements from x and y '''
+x=[12,23,45,56,78]
+y=[47,58,12,45,10]
+z=[]
+for i  in x:
+    if i in y:
+        z.append(i)
+print(z)
+'''create a blank list and store all text data'''
+y=[]
+x=["SQL",45,25j,True,14,"excel","python"]
+for i in x:
+    if type(i)==str:
+       y.append(i)
+         
+print(y)
+#-----------------------------------------------
+'''Creat a blank list and add unique values'''
+y=[]
+x=[1,1,1,1,2,2,2,2,3,3,3,3,4,4,4]
+for i in x:
+    if i not in y:
+        y.append(i)
+print(y)
+
+'''______________________________________________________________________________________
+SORT--its arrange the data in ascending or descending order in orginal list
+SORTED---its also arrange data in ascending or descending order but it store in new variable.
+_________________________________________________________________________________________________'''
+
+
+
+
 
 
 
