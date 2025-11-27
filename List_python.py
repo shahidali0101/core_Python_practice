@@ -147,3 +147,31 @@ print(x.count("a")+x.count("A"))
 
 
 #-------------------------------------------------------------------
+'''_________________________________ ADD ELEMENTS IN LIST_____________________________________________
+1.INSERT  : With the help of this function we can add element in LIST by index number.
+2.APPEND  : Append are used to add value in last of index value.
+3.EXTEND  : Its combine two or more than two list in last of position.
+______________________________________________________________________________________________________ '''
+x=["a","b","c","d"]
+x.insert(2,"Python")
+print(x)                   #['a', 'b', 'Python', 'c', 'd']
+#-----------------------
+x=["a","b","c","d"]
+x.append("Prince")
+print(x)                 #['a', 'b', 'c', 'd', 'Prince']
+#-----------------------
+x=["a","b","c","d"]
+x.extend([10,20,30])
+print(x)                 #['a', 'b', 'c', 'd', 10, 20, 30]
+#-----------------------
+x=["a","b","c","d"]
+y=[1,2,3,4,5]
+x.extend(y)
+print(x)                #['a', 'b', 'c', 'd', 1, 2, 3, 4, 5]
+#_______________________________________________________________________________  
+
+
+
+
+
+
