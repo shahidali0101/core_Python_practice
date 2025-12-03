@@ -2,7 +2,7 @@
 list is part of sequence data type which is a collection of repitative elements
 it is used to store multiple data in single variable and its always written in square bracket
 ________________________________________________________________________________________________ 
-
+ 
 1-list are written in square bracket.
 2-list are mutable or changable.
 3-list are used to store multiple values in a single variable.
@@ -255,6 +255,7 @@ print(y)
 SORT--its arrange the data in ascending or descending order in orginal list
 SORTED---its also arrange data in ascending or descending order but it store in new variable.
 _________________________________________________________________________________________________'''
+
 
 
 
