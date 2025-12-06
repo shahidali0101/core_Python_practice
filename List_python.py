@@ -20,7 +20,7 @@ ________________________________________________________________________________
                           x=list()
                           print(x)
                         ----------------------------------------
-   ------------------------------------------------------------------------------------------
+   -------------------------------------------------------------------------------------------
    0-list consider " , "comma in last✅ but in begining or mid it will show error❌                      
 ---------------------------------------------------------------------------------------------------
 INDEXING - Iindexing are used to Extract the single elements from list.
@@ -255,6 +255,7 @@ print(y)
 SORT--its arrange the data in ascending or descending order in orginal list
 SORTED---its also arrange data in ascending or descending order but it store in new variable.
 _________________________________________________________________________________________________'''
+
 
 
 
