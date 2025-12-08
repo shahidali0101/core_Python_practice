@@ -195,10 +195,10 @@ x.pop(1) #delete element by index
 #----------------------------------------------------------------------------------------------
 x=["one","two","three","four","five"]
 x.remove("two") #only single value in one tym
-#-------------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------
 x=["one","two","three","four","five"]
 x.clear()
-#---------------------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------
 
 x=["one","two","three","four","five"]
 del x       #delete completely even variable.
@@ -255,6 +255,7 @@ print(y)
 SORT--its arrange the data in ascending or descending order in orginal list
 SORTED---its also arrange data in ascending or descending order but it store in new variable.
 _________________________________________________________________________________________________'''
+
 
 
 
