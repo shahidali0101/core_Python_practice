@@ -5,7 +5,7 @@ Author: Shahid Ali
 
 """
 
-# -------------------------------     
+# -------------------------------  -   
 # What are Conditional Statements? 
 # --------------------------------
 # Conditional statements are used to perform different actions based on different conditions.
@@ -167,6 +167,7 @@ for i in range(1, 21):
 x=int(input(" enter any number-:  "))
 y=x%10
 print("this is the last digit:-",y)
+
 
 
 
