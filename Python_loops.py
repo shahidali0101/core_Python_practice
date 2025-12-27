@@ -4,7 +4,7 @@ Topic: Loops in Python
 Author: Shahid Ali
 """
 
-# -------------------------
+# ------------------------- 
 
 # What are Loops?
 # -------------------------
@@ -263,6 +263,7 @@ y=int(input(" Enter no :- "))
 for i in range(1,y+1):
      x=i**3
      print(x)
+
 
 
 
