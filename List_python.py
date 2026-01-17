@@ -1,4 +1,4 @@
-'''_____________________________ LIST ________________________________________________________
+'''_____________________________ LIST _______________________________________________________
 list is part of sequence data type which is a collection of repitative elements
 it is used to store multiple data in single variable and its always written in square bracket
 _____________________________________________________________________________________________
@@ -255,6 +255,7 @@ print(y)
 SORT--its arrange the data in ascending or descending order in orginal list
 SORTED---its also arrange data in ascending or descending order but it store in new variable.
 _________________________________________________________________________________________________'''
+
 
 
 
