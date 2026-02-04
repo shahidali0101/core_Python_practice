@@ -35,3 +35,17 @@ ________________________________________________________________________________
 
 # print(len(D))     #4
 
+#-------------------------------------------------------------
+'''Delete all keys and values whose keys contains "o"  '''
+
+m={"brand":"apple",
+   "model":"16 pro",
+   "Rom":"256gb",
+   "color":"white",
+   "price":100000,
+   "Rank":20}
+
+x=[i for i in m if "o" in i]
+for i in x:
+    del m[i]
+print(m)
