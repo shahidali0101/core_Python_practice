@@ -1,7 +1,7 @@
 '''_____________________________ LIST _______________________________________________________
 list is part of sequence data type which is a collection of repitative elements
 it is used to store multiple data in single variable and its always written in square bracket
-_____________________________________________________________________________________________
+_____________________________________________________________________________________________ 
   
 1-list are written in square bracket.
 2-list are mutable or changable.
@@ -263,6 +263,7 @@ ________________________________________________________________________________
 
 
 #    
+
 
 
 
