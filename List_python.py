@@ -8,7 +8,7 @@ ________________________________________________________________________________
 4-list are ordered.
 5-list allowed duplicate value.
 6-list are indexed.
-7-list support Multiple type of data  
+7-list support Multiple type of data   
                           
                         ---------------------------------------
                         #how to create a blank list  
