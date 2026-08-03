@@ -1,6 +1,6 @@
 '''_________________________________||  DICTIONARY   ||__________________________________________________'''
 
-'''DICTIONARY - Dictionary is a collection of non repitative elements it is always written with the pair of 
+'''DICTIONARY - Dictionary is a collection of non repitative elements it is always written with the pair of
                 keys and values . 
                and it also store multiple elements in dict. 
                written in curly brackets.
