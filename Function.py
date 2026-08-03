@@ -59,7 +59,7 @@ print("5 squared:", power(5))
 print("2^3:", power(2, 3))
 
 
-# ---------------------------
+# --------------------------
 # 5. Keyword Arguments
 # ---------------------------
 def introduce(name, age):
